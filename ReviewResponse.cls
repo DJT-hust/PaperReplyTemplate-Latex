@@ -64,3 +64,6 @@
 \end{center}
 
 }
+\usepackage{caption}
+\captionsetup[figure]{name={Fig.},labelsep=period, font={small}}
+\captionsetup[table]{name={Table},labelsep=period, font={small}}
